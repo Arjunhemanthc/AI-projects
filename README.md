@@ -1,17 +1,27 @@
 # AI Math Tutor 🧠✋
-Gesture-based math tutoring app using OpenCV and Streamlit.
 
-## Tech Stack
-- Python, OpenCV, Mediapipe, CVZone, Streamlit
+A gesture-based math tutoring application built using computer vision for real-time arithmetic solving.
 
-## Features
-- Recognizes hand gestures for arithmetic operations
-- Live feedback through Streamlit interface
-- Designed for accessibility in education
+## 🔧 Tech Stack
+- Python
+- OpenCV
+- Mediapipe
+- CVZone
+- Streamlit
+
+## ✨ Features
+- Hand gesture recognition for performing arithmetic (Add, Subtract, Multiply, Divide)
+- Streamlit-based interface with real-time webcam input
+- Useful for accessible, touchless interaction in educational tools
+
+## 🏆 Achievements
+- Built as a team project
+- Presented at an AI Workshop by Techys Spot
+- Won **1st Prize** for innovation in gesture-controlled education
 
 
-## How to Run
+
+## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
