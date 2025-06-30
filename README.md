@@ -1,1 +1,1 @@
-# AI-projects
+ai-math-tutor
