@@ -1,25 +1,19 @@
-# AI Math Tutor 🤖✋
+## 🎯 Project Overview
+AI Math Tutor is a gesture-based math tutoring application that uses computer vision (OpenCV & Mediapipe) to solve arithmetic problems in real-time through hand gestures.
 
-A gesture-based math tutoring application that uses computer vision to help users solve arithmetic problems through real-time hand gestures.
-
-## 🧩 Features
-- Detects hand landmarks in real-time using Mediapipe.
-- Identifies finger gestures to input numbers.
-- Performs arithmetic operations without the need for keyboard input.
-- User-friendly and accessible interface.
+## 🚀 Features
+- Hand gesture detection for numbers & operators.
+- Real-time calculation and result display.
+- User-friendly interface with minimal setup.
+- Works offline after initial installation.
 
 ## 🛠️ Tech Stack
 - Python
 - OpenCV
 - Mediapipe
-- CVZone (if used)
-- Numpy
+- NumPy
 
-## 🎓 Project Motivation
-This project was created as part of a computer vision workshop to help students with learning difficulties or physical limitations solve math problems using hand gestures.
-
-## 📁 How to Run
+## 📂 How to Run
 1. Clone the repository:
-```bash
-git clone https://github.com/Arjunhemanthc/ai-math-tutor
-cd ai-math-tutor
+   ```bash
+   git clone https://github.com/YourUsername/ai-math-tutor.git
